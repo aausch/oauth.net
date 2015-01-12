@@ -45,8 +45,6 @@ require('../includes/_header.php');
 			
 			<h4>C#</h4>
 			
-			<p><a href="http://eran.sandler.co.il">Eran Sandler</a> has contributed a <a href="http://oauth.googlecode.com/svn/code/csharp/">basic C# class</a> that performs signing.</p>
-			
 			<p>Alex Henderson offers <a href="http://code.google.com/p/devdefined-tools/wiki/OAuth">DevDefined OAuth</a>, an OAuth library developed in C#, providing both consumer and provider implementations for OAuth 1.0 and 1.0a which includes support for the Error Reporting Extensions and allows for RSA-SHA1, HMAC-SHA1 and Plaintext signing. DevDefined OAuth is designed to be both test friendly and extensible, allowing the core to be repurposed to your specific projects needs, and is available under an MIT License. Extensions to the framework to support ASP.Net MVC can also be found on <a href="http://github.com/buildmaster/oauth-mvc.net" title="buildmaster's oauth-mvc.net at master - GitHub">this fork</a>.</p>
 			
 			<h4>VB.NET</h4>
